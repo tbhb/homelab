@@ -1,2 +1,3 @@
 # homelab-infra
-Infrastructure automation for my homelab
+
+Infrastructure automation for my homelab.
